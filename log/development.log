@@ -1,0 +1,28 @@
+Started GET "/" for 127.0.0.1 at 2017-09-12 05:52:29 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (7.0ms)
+Completed 200 OK in 213ms (Views: 25.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-12 05:52:31 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/lib/ruby/gems/2.4.0/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 4.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 19:38:47 +0200
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 248ms (Views: 3.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-13 21:07:18 +0200
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 211ms (Views: 16.5ms)
+
+
