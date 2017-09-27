@@ -113,3 +113,17 @@ Processing by ApplicationController#hello as HTML
 Completed 200 OK in 1ms (Views: 0.3ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-09-27 05:58:05 +0200
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-09-27 06:01:32 +0200
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
