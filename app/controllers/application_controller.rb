@@ -3,7 +3,7 @@ class ApplicationController < ActionController::Base
 
   def hello
 
-  	render html: "hello,world!world"
+  	render html: "hello,world!world!world"
   	
   end
 end
